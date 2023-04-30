@@ -7,3 +7,24 @@ Addres:
 ZIP Code:
 Mobile No:
 
+Name: 
+DOB:
+Age:
+Gender:
+Addres:
+ZIP Code:
+Mobile No:
+Name: 
+DOB:
+Age:
+Gender:
+Addres:
+ZIP Code:
+Mobile No:
+Name: 
+DOB:
+Age:
+Gender:
+Addres:
+ZIP Code:
+Mobile No:
